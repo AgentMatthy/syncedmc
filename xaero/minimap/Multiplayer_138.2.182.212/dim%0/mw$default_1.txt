@@ -1,6 +1,8 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:Horkay:+:-1316:62:1277:10:false:0:gui.xaero_default:false:0:1:false
+waypoint:jungel:J:-4023:64:-2271:2:false:0:gui.xaero_default:false:0:1:false
 waypoint:pillager outpost:P:-1352:91:1016:7:false:0:gui.xaero_default:false:0:0:false
 waypoint:horkayee:H:-8728:~:744:12:false:0:gui.xaero_default:false:0:0:false
 waypoint:MWARON:M:-3300:58:5139:10:false:0:gui.xaero_default:false:0:1:false

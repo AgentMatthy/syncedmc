@@ -1,8 +1,3 @@
-/tpa Eclipse_Vision
-/tpaccept
-/deop Eclipse_Matthy
-/tpaccept
-/msg
 /tpaccept
 /pay Eclipse_Vision
 /pay Eclipse_Vision 1
@@ -48,3 +43,8 @@
 /msg sAkosking12 in game
 /tpa d0rh211
 /login asdasd
+/tpa Mwaron
+/tpa d0rh211
+/voicechat invite Mwaron
+/voicechat invite chamcheleon64
+/playtime
