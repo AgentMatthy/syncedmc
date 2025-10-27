@@ -1,0 +1,23 @@
+{
+    "ModSettings": {
+        "enable_auto_refill": {
+            "value": false
+        },
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "Z"
+            }
+        },
+        "sort_inventory_in_rows": {
+            "main": {
+                "keys": "C"
+            }
+        }
+    }
+}

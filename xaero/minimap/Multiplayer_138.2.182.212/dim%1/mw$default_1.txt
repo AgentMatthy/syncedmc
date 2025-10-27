@@ -1,0 +1,11 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:city:C:-2184:57:-4424:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:gateway:G:-2067:62:-1563:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:elytra:E:-780:~:-2120:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:death:D:-3207:0:-636:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint:D:-3208:-258:-637:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:mwaron:S:-6570:58:-774:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:endcity1:E:395:86:2602:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:gateways:G:1029:59:376:1:false:0:gui.xaero_default:false:0:0:false

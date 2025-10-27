@@ -1,0 +1,29 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw1089,0,1095
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$gladiatorslatest111:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest115:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest107:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest103:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest116:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest113:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest101:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest110:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest106:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest105:minecraft$overworld
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest102:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest108:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest112:minecraft$overworld
+dimensionType:minecraft$gladiatorslatest104:minecraft$overworld
+//server waypoints

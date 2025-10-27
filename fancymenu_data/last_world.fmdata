@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/csaki/AppData/Roaming/PrismLauncher/instances/Minecraft Custom 1.21.4/minecraft/saves/test1
+}
+

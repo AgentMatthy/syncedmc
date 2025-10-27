@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Fortress:F:-375:47:-765:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:PORTAL:P:-404:46:-325:5:false:0:gui.xaero_default:false:0:1:false
+waypoint:bastion-highway:B:180:104:-432:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:oldportel:O:-384:53:-355:8:false:0:gui.xaero_default:false:0:0:false
